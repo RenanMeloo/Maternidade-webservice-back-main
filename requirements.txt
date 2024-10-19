@@ -3,4 +3,5 @@ uvicorn[standard]
 bcrypt
 sqlalchemy
 mysqlclient # conexão local
+psycopg2
 #psycopg2-binary # conexão supabase
